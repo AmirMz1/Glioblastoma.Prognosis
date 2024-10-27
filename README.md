@@ -1,5 +1,6 @@
 # Glioblastoma.Prognosis
-Glioblastoma Multiforme Prognosis: MRI Missing Modality Generation, Segmentation and Radiogenomic Survival Prediction
+Glioblastoma Multiforme Prognosis: MRI Missing Modality Generation, Segmentation and Radiogenomic Survival Prediction<br />
+Dataset: BraTS2020
 
 
 <br />
@@ -31,5 +32,19 @@ Glioblastoma Multiforme Prognosis: MRI Missing Modality Generation, Segmentation
     <img src="https://github.com/AmirMz1/Glioblastoma.Prognosis/blob/main/segmentation_results.png?raw=true" width="1080px"/>
   </a>
 
+
+</div>
+
+
+<br />
+<div align="center">
+  <h3 align="left">Step 3: Extracting radiomics data from sgemented reigons</h3>
+  <br />
+  <br />
+
+  <h3 align="left">Step 4: Combining the radiomics, clinical and CNV data</h3>
+  <h3 align="left">Step 5: Train an ANN to predict patient state as 3 classes (high risk, mid risk, low risk)</h3>
+  
+  
 
 </div>
