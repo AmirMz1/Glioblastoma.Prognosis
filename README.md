@@ -38,7 +38,7 @@ Dataset: BraTS2020
 
 <br />
 <div align="center">
-  <h3 align="left">Step 3: Extracting radiomics data from sgemented reigons</h3>
+  <h3 align="left">Step 3: Extracting radiomics data from sgemented reigons (Applying to TCIA dataset)</h3>
   <br />
   <br />
 
