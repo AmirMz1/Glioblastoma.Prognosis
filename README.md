@@ -23,12 +23,12 @@ Glioblastoma Multiforme Prognosis: MRI Missing Modality Generation, Segmentation
   
   <h4 align="center">True Mask</h4>
   <a href="">
-    <img src="https://github.com/AmirMz1/Glioblastoma.Prognosis/blob/main/true_mask.png?raw=true" width="1920px"/>
+    <img src="https://github.com/AmirMz1/Glioblastoma.Prognosis/blob/main/true_mask.png?raw=true" width="1080px"/>
   </a>
   <br />
   <h4 align="center">Segmented Mask</h4>
   <a href="">
-    <img src="https://github.com/AmirMz1/Glioblastoma.Prognosis/blob/main/segmentation_results.png?raw=true" width="1920px"/>
+    <img src="https://github.com/AmirMz1/Glioblastoma.Prognosis/blob/main/segmentation_results.png?raw=true" width="1080px"/>
   </a>
 
 
