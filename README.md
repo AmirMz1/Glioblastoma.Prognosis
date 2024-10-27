@@ -4,7 +4,7 @@ Glioblastoma Multiforme Prognosis: MRI Missing Modality Generation, Segmentation
 
 <br />
 <div align="center">
-  <h3 align="center">Genrating T2 MRI Missing Modality</h3>
+  <h3 align="center">Generating T2 MRI Missing Modality</h3>
   
   <a href="">
     <img src="https://github.com/AmirMz1/Glioblastoma.Prognosis/blob/main/real_image.png?raw=true" width="1920px"/>
